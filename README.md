@@ -1,4 +1,8 @@
 ## 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=+Hi,Be+Welcome!😁;+My+name+is+Breno)](https://git.io/typing-svg)<div><br><h3>
+
+
+
 
 <a href="https://github.com/BrenoM097">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoM097&show_icons=true&theme=great-gatsby">
