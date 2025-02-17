@@ -8,17 +8,17 @@
 
 
 <a href="https://github.com/BrenoM097">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoM097&show_icons=true&theme=great-gatsby">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoM097&layout=compact&theme=great-gatsby">
 </a>
 
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Breno-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Breno-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-   <img align="center" alt="Breno-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-   <img align="center" alt="Breno-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Breno-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Breno-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+   <img align="center" alt="Breno-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+   <img align="center" alt="Breno-laravle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Breno-vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg>
 </div>
 
 ##
